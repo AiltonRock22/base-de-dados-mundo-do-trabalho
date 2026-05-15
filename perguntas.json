@@ -1,0 +1,35 @@
+{
+  "tituloAtividade": "NOME DA DISCIPLINA OU TEMA",
+  "descricao": "Instruções gerais para os alunos aqui.",
+  "perguntas": [
+    {
+      "id": "q1",
+      "tipo": "multipla_escolha",
+      "pergunta": "Qual destas alternativas melhor define o conceito X?",
+      "opcoes": ["Opção A", "Opção B", "Opção C", "Opção D"]
+    },
+    {
+      "id": "q2",
+      "tipo": "texto_curto",
+      "pergunta": "Em uma frase, defina o que é Y."
+    },
+    {
+      "id": "q3",
+      "tipo": "texto_longo",
+      "pergunta": "Discorra sobre a importância de Z para a sociedade contemporânea."
+    },
+    {
+      "id": "q4",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "A afirmação 'O céu é verde' é verdadeira ou falsa?",
+      "opcoes": ["Verdadeiro", "Falso"]
+    },
+    {
+      "id": "q5",
+      "tipo": "associacao",
+      "pergunta": "Associe a Coluna A com a Coluna B:",
+      "itens_coluna_a": ["Platão", "Aristóteles", "Sócrates"],
+      "itens_coluna_b": ["Mundo das Ideias", "Lógica", "Método Dialético"]
+    }
+  ]
+}
